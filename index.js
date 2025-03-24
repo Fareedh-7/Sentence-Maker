@@ -13,14 +13,14 @@ noun2 = "cat";
 let firstStory;
 firstStory = "The " + adjective + " " + noun + " " + verb + " to the " + place + " to catch the " + adjective2 + " " + noun2 + ".";
 console.log("First story: " + firstStory);
-adjective = "";
-noun = "";
-verb = "";
-place = "";
-adjective2 = "";
-noun2 = "";
+adjective = "old";
+noun = "man";
+verb = "walked";
+place = "park";
+adjective2 = "quiet";
+noun2 = "dog";
 let secondStory;
-secondStory = "";
+secondStory = "The " + adjective + " " + noun + " " + verb + " through  the " + adjective2 + " " + place + " with his " + noun2 + ".";
 console.log("Second story: " + secondStory);
 
 
